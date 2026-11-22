@@ -1,0 +1,7 @@
+{
+  "name": "fast-utils",
+  "version": "1.0.0",
+  "description": "A small utility library.",
+  "main": "index.js",
+  "license": "MIT"
+}
